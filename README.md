@@ -8,7 +8,7 @@ Things you may want to cover:
 * 
 * Ruby version "3.3.4"
 
-* System dependencies
+* System dependencies: Check Gemfile
 
 * Configuration
 

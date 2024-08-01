@@ -1,5 +1,9 @@
 # README
 
+
+I have to fix delete button that works but there is not notice message before destroying info 
+path: app/views/friends/show.html.erb
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

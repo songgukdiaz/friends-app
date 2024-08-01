@@ -21,7 +21,7 @@
         <td><%= friend.email %></td>
         <td><%= friend.twitter %></td>
         <td>
-          <%= link_to "Details", friend %>
+          <%= link_to "Details", friend, class:"btn btn-secondary" %>
         </td>
         <% end %>
       </tr>
@@ -29,4 +29,4 @@
   </table>
 </div>
 
-<%= link_to "New friend", new_friend_path %>
+<%= link_to "New friend", new_friend_path, class:"btn btn-secondary" %>
